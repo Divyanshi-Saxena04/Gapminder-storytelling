@@ -1,0 +1,2 @@
+{ "name": "gapminder-storytelling", "version": "1.0.0", "private": true,
+  "scripts": { "report": "node src/build.js" }, "dependencies": { "docx": "^9.0.0" } }
